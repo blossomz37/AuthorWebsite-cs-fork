@@ -382,3 +382,6 @@ netlify-config.json
 
 # Netlify build files
 .netlify
+
+# Personal notes
+.ideas/
